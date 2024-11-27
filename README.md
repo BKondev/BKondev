@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Blagoslav.
-- 👀 I'm a second year Software engineering student seeking an internship in programming.
+- 👀 I'm a third year Software engineering student currently working as a Full Stack Web Developer with Ruby on Rails.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I'm looking to collaborate on everything that's gonna make me learn new stuff.
 - 📫 How to reach me :
